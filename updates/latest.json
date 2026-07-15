@@ -1,9 +1,9 @@
 {
-  "versao": "2.0.3",
-  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.3/ControlJusPlus_v2.0.3_Setup.exe",
-  "sha256": "73ab4d9306ed7678feeb7fe884f79e6e1fb0a4be8b04b98f8104c716ae316ca0",
-  "tamanho": 19159168,
-  "notas": "Corrige a aba DJEN para publicações sem efeito de intimação.",
-  "publicado_em": "2026-07-15T23:09:59+00:00",
-  "assinatura": "1MsPfj_NPLcf_g9-i7yAucTn3xvjkTYpYVR9YcarM2vNpOvBWX7Xta28YfYgP1S_XS7b9JngQlrsTvIhZ21DDg"
+  "versao": "2.0.4",
+  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.4/ControlJusPlus_v2.0.4_Setup.exe",
+  "sha256": "f3e42192c2c35a0f54baf6792bef7ca4d52de610e20f78b8057bfe19d591fc95",
+  "tamanho": 19607759,
+  "notas": "Novo logotipo ControlJusPlus em azul-petroleo e dourado no aplicativo, janela, menu lateral, instalador e atalhos.",
+  "publicado_em": "2026-07-15T23:33:40+00:00",
+  "assinatura": "p_oFRFAteLSsCfZ6sCuN3uUXvtUygO7AXjtcGM8OtNRDrQxdcKamXKod0Ygz_uldsHMI0sYLCvO6UNCBrzZ5Bg"
 }
