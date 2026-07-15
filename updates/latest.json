@@ -1,9 +1,9 @@
 {
-  "versao": "2.0.2",
-  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.2/ControlJusPlus_v2.0.2_Setup.exe",
-  "sha256": "d51a06659bf54ce8bb935fed1afa79284b14c331eee4bafa9322dcee41e4492e",
-  "tamanho": 19157902,
-  "notas": "DJMG/FBH oficial, Capturas do dia e melhorias de desempenho.",
-  "publicado_em": "2026-07-15T22:47:46+00:00",
-  "assinatura": "gbSBTkMESZoEu0QbejTYy26MFpb4HVk9z2d00KUHFHDeNK0RS8VI3g__DZs9weeWijHbnaYKhsgmaRTiTHYCAw"
+  "versao": "2.0.3",
+  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.3/ControlJusPlus_v2.0.3_Setup.exe",
+  "sha256": "73ab4d9306ed7678feeb7fe884f79e6e1fb0a4be8b04b98f8104c716ae316ca0",
+  "tamanho": 19159168,
+  "notas": "Corrige a aba DJEN para publicações sem efeito de intimação.",
+  "publicado_em": "2026-07-15T23:09:59+00:00",
+  "assinatura": "1MsPfj_NPLcf_g9-i7yAucTn3xvjkTYpYVR9YcarM2vNpOvBWX7Xta28YfYgP1S_XS7b9JngQlrsTvIhZ21DDg"
 }
