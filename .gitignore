@@ -1,0 +1,11 @@
+*.db
+*.sqlite
+*.sqlite3
+*.bin
+*.dpapi
+*.key
+*.pem
+*.env
+licenca*.txt
+config.json
+__pycache__/
