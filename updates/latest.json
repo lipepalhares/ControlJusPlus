@@ -1,9 +1,9 @@
 {
-  "versao": "2.0.9",
-  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.9/ControlJusPlus_v2.0.9_Setup.exe",
-  "sha256": "5e97af18a467763fe120e7ce27a204672e59c3c60497d6408a4424a5084fe7a5",
-  "tamanho": 19619412,
-  "notas": "Corrige a identificação de clientes no DJMG para nunca confundir nomes da relação de advogados com partes do processo.",
-  "publicado_em": "2026-07-16T03:50:22+00:00",
-  "assinatura": "0XmeTB2Pv30Oo0BN-as5bIoBZNJIFaHLOb8lmeGH3aT-crDLtj6eLSJ9Le-X1wHNT1es4QqQD0ujClT1XkhLDQ"
+  "versao": "2.0.10",
+  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.10/ControlJusPlus_v2.0.10_Setup.exe",
+  "sha256": "15b6af872de368e0816113534bff81c7509019ffad902eb7c337a2a2f5e1dded",
+  "tamanho": 19621141,
+  "notas": "Corrige a sincronização dos andamentos do DJMG com o Portal do Cliente, preservando identificadores negativos e grandes.",
+  "publicado_em": "2026-07-16T04:14:56+00:00",
+  "assinatura": "Ac-aQu48necUukxyAmEqGraqOc-HSqDxbswt17gRsFfIE-nhyf28ub-_6QUGXwWAo26AitBv_bFGkOdJEpwjBw"
 }
