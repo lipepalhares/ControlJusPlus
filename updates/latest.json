@@ -1,9 +1,9 @@
 {
-  "versao": "2.0.11",
-  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.11/ControlJusPlus_v2.0.11_Setup.exe",
-  "sha256": "a5de47580b3f256a172bb546b92d676f9248cb76a98aa3c2bccf1dfe93ac9952",
-  "tamanho": 19620969,
-  "notas": "Corrige a visualização de expedientes do DJMG e DJEN com uma tela interna completa, impressão e acesso separado ao arquivo oficial.",
-  "publicado_em": "2026-07-16T04:25:34+00:00",
-  "assinatura": "Lk5B6dOP7r_u_NHPLzVgXsMEMsFzKEU8E0U2JY6u_3Fp6bptyfZM1rIYuxhj1jHVeSf_1uTlmK-k4xwCRQH_CQ"
+  "versao": "2.0.10",
+  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.10/ControlJusPlus_v2.0.10_Setup.exe",
+  "sha256": "15b6af872de368e0816113534bff81c7509019ffad902eb7c337a2a2f5e1dded",
+  "tamanho": 19621141,
+  "notas": "Corrige a sincronização dos andamentos do DJMG com o Portal do Cliente, preservando identificadores negativos e grandes.",
+  "publicado_em": "2026-07-16T04:14:56+00:00",
+  "assinatura": "Ac-aQu48necUukxyAmEqGraqOc-HSqDxbswt17gRsFfIE-nhyf28ub-_6QUGXwWAo26AitBv_bFGkOdJEpwjBw"
 }
