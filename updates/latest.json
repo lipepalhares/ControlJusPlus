@@ -1,9 +1,9 @@
 {
-  "versao": "2.0.8",
-  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.8/ControlJusPlus_v2.0.8_Setup.exe",
-  "sha256": "82538059d3e2bd6fe2bd2d5ac7e4be3a4a04b29c70970b6ff1ff7fb508853a4e",
-  "tamanho": 19621282,
-  "notas": "Corrige a abertura e as ações de publicações do DJMG com identificadores grandes, eliminando a mensagem Não encontrado.",
-  "publicado_em": "2026-07-16T03:39:51+00:00",
-  "assinatura": "xFTETo-p9qJM1Ms8LsSJ8bHB81Zagrf1jFrVbm-4JF4do-pQcTaPNQDHWjW_27Oo_zsCiZGmYj1e7_cAzFbgCw"
+  "versao": "2.0.9",
+  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.9/ControlJusPlus_v2.0.9_Setup.exe",
+  "sha256": "5e97af18a467763fe120e7ce27a204672e59c3c60497d6408a4424a5084fe7a5",
+  "tamanho": 19619412,
+  "notas": "Corrige a identificação de clientes no DJMG para nunca confundir nomes da relação de advogados com partes do processo.",
+  "publicado_em": "2026-07-16T03:50:22+00:00",
+  "assinatura": "0XmeTB2Pv30Oo0BN-as5bIoBZNJIFaHLOb8lmeGH3aT-crDLtj6eLSJ9Le-X1wHNT1es4QqQD0ujClT1XkhLDQ"
 }
