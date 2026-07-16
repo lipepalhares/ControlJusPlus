@@ -1,9 +1,9 @@
 {
-  "versao": "2.0.5",
-  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.5/ControlJusPlus_v2.0.5_Setup.exe",
-  "sha256": "5667e22e4f5533ea906b7282ae5c5b6a8413ae82557636124afb5cd873343a15",
-  "tamanho": 19618997,
-  "notas": "Servidor central seguro integrado ao enderson.adv.br para sincronizacao automatica das quatro estacoes.",
-  "publicado_em": "2026-07-16T02:49:58+00:00",
-  "assinatura": "0R9FJ_NzSY-oAogIuyBSGL-k1mGHXc7BrQR9DYRcxKCzktMAYUnW-BHvNY3P9NaSe2dVdAGV7IJik4ZAsWn0BA"
+  "versao": "2.0.7",
+  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.7/ControlJusPlus_v2.0.7_Setup.exe",
+  "sha256": "a063241ffc14a75be16db227a9735d695d0720f18f8c62658875d3dce18885e8",
+  "tamanho": 19618704,
+  "notas": "Corrige caracteres quebrados na interface e renomeia automaticamente a estação 4 para Notebook Felipe.",
+  "publicado_em": "2026-07-16T03:25:27+00:00",
+  "assinatura": "MAD7K_nPu6ZOs2z69uJsFrqwVn2S4YkFh_SXedvYql7tNJWsmsz0ZKOtMsXGn1Js4RHZ8R7kB7R8OArs2HqNCg"
 }
