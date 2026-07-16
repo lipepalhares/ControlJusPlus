@@ -1,9 +1,9 @@
 {
-  "versao": "2.0.7",
-  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.7/ControlJusPlus_v2.0.7_Setup.exe",
-  "sha256": "a063241ffc14a75be16db227a9735d695d0720f18f8c62658875d3dce18885e8",
-  "tamanho": 19618704,
-  "notas": "Corrige caracteres quebrados na interface e renomeia automaticamente a estação 4 para Notebook Felipe.",
-  "publicado_em": "2026-07-16T03:25:27+00:00",
-  "assinatura": "MAD7K_nPu6ZOs2z69uJsFrqwVn2S4YkFh_SXedvYql7tNJWsmsz0ZKOtMsXGn1Js4RHZ8R7kB7R8OArs2HqNCg"
+  "versao": "2.0.8",
+  "url": "https://github.com/lipepalhares/ControlJusPlus/releases/download/v2.0.8/ControlJusPlus_v2.0.8_Setup.exe",
+  "sha256": "82538059d3e2bd6fe2bd2d5ac7e4be3a4a04b29c70970b6ff1ff7fb508853a4e",
+  "tamanho": 19621282,
+  "notas": "Corrige a abertura e as ações de publicações do DJMG com identificadores grandes, eliminando a mensagem Não encontrado.",
+  "publicado_em": "2026-07-16T03:39:51+00:00",
+  "assinatura": "xFTETo-p9qJM1Ms8LsSJ8bHB81Zagrf1jFrVbm-4JF4do-pQcTaPNQDHWjW_27Oo_zsCiZGmYj1e7_cAzFbgCw"
 }
